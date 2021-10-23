@@ -1,0 +1,217 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="u?d+Y.VR=H)[xJ*FDUVg" x="225" y="20"/><block type="pxt-on-start" id="q;-7`A}t}bfXc2JA68ne" x="51" y="104"><comment>주석~~~~</comment><statement name="HANDLER"><block type="function_call" id="w+h[!STJU/l){F[Q[%;S"><mutation name="ㅇ" functionid="[Bc~K}u]a7abRnWDw$pA"/><next><block type="function_call" id="V4|[|GH[qFkBDF#jUA#~"><mutation name="ㅏ" functionid="nZ3{?av(j:xR!l[^AJ59"/><next><block type="function_call" id="F|L,0#@h[nbkyU{Pu`R}"><mutation name="ㄴ" functionid="_z$Y28Zeea7V@RnHW_p?"/><next><block type="function_call" id="6kLrX|DkU9yt:f~dYX:K"><mutation name="띄어쓰기" functionid="*WAI!TV=mDn|-_.h,^]4"/><next><block type="function_call" id=")~D-JS|*V;m9xx0?#aHm"><mutation name="ㄴ" functionid="_z$Y28Zeea7V@RnHW_p?"/><next><block type="function_call" id="2HUKMTVZreZbE7Fs4a7m"><mutation name="ㅕ" functionid="|Vcs:{E?YRIpDzY:_QrM"/><next><block type="function_call" id=":O1jXJO?u8fQhMU=`|#c"><mutation name="ㅇ" functionid="[Bc~K}u]a7abRnWDw$pA"/><next><block type="function_call" id="uQx1%-qx:;Oxa2)8}QS^"><mutation name="!" functionid=")xj)UdI6|D(y$Nx+aq(!"/></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="function_definition" id="0bpt4+::gkkBy5VPG2gR" collapsed="true" x="-581" y="934"><mutation name="ㄱ" functionid="A2QNWh!7CefRZz`+qD1`"/><field name="function_name">ㄱ</field><statement name="STACK"><block type="device_show_leds" id="S$-wa9RFQb(Z`7HvzAQM"><field name="LEDS">`
+        # # # # # 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . #
+        `</field></block></statement></block><block type="function_definition" id="kLUNXPQs-JIC/M?^!zU5" collapsed="true" x="-425" y="939"><mutation name="ㅈ" functionid="=wCmH2q1n|+QWT`E|9)d"/><field name="function_name">ㅈ</field><statement name="STACK"><block type="device_show_leds" id="EKG_.%0PGH]c6Y}u%xat"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block><block type="function_definition" id="_v_4miu4ojQUM]RHXZ`L" collapsed="true" x="-85" y="972"><mutation name="ㅊ" functionid="[JgCf=;gKPE2GNW$xl[^"/><field name="function_name">ㅊ</field><statement name="STACK"><block type="device_show_leds" id="0*#^~KC^XP7a~hqq}`SV"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block><block type="function_definition" id="ePs@n:H3eP1gx|$GLw/6" collapsed="true" x="-337" y="993"><mutation name="ㅇ" functionid="[Bc~K}u]a7abRnWDw$pA"/><field name="function_name">ㅇ</field><statement name="STACK"><block type="device_show_leds" id=":[:tPoy5ViB[l%rl;uPp"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="function_definition" id="M/wsxr;qq.HUI=3,YyCU" collapsed="true" x="369" y="958"><mutation name="ㅑ" functionid="+:+iDiPV({LcAxKKDPoI"/><field name="function_name">ㅑ</field><statement name="STACK"><block type="device_show_leds" id="hVf?u4{FY|kIbG+Z=K)0"><field name="LEDS">`
+        . . # . . 
+        . . # # . 
+        . . # . . 
+        . . # # . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="wT9P(W~*J{As*ksDA|`Q" collapsed="true" x="233" y="972"><mutation name="ㅏ" functionid="nZ3{?av(j:xR!l[^AJ59"/><field name="function_name">ㅏ</field><statement name="STACK"><block type="device_show_leds" id="yv67#~k.oQU+euoZ*gFK"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # # . 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="_Z%+uMAn}U!@FrjG23X-" collapsed="true" x="-697" y="1035"><mutation name="ㄴ" functionid="_z$Y28Zeea7V@RnHW_p?"/><field name="function_name">ㄴ</field><statement name="STACK"><block type="device_show_leds" id="4EtU*/*0Ecy@/D{Eg;I@"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="zK]M@}]}5Pd/+`GvD/}s" collapsed="true" x="515" y="978"><mutation name="ㅓ" functionid="prw`$UCv|Fx@V~weA_xi"/><field name="function_name">ㅓ</field><statement name="STACK"><block type="device_show_leds" id="%?|e%y+B@,Mu_t/,9ifZ"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="$42hM+X^Qj,U*DupeXj?" collapsed="true" x="789" y="969"><mutation name="ㅗ" functionid="TI/OJ`7T-Zva;-kRxSiV"/><field name="function_name">ㅗ</field><statement name="STACK"><block type="device_show_leds" id="`WYdpsQD+Iog^tVNmqE`"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="function_definition" id="2$g]gI04lsS1~fH(681I" collapsed="true" x="669" y="982"><mutation name="ㅕ" functionid="|Vcs:{E?YRIpDzY:_QrM"/><field name="function_name">ㅕ</field><statement name="STACK"><block type="device_show_leds" id="@6,1cG:.}{Y|CH8avM:P"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . # # . . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="iFbXP;N4$i|^R17z]L3d" collapsed="true" x="1130" y="988"><mutation name="ㅐ" functionid="+3E3E_*z;{VO!/=|f/BD"/><field name="function_name">ㅐ</field><statement name="STACK"><block type="device_show_leds" id="1pKca6UG7VEk=+}1@ECP"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field></block></statement></block><block type="function_definition" id="@|sPppp-`MF@gsdi#D}2" collapsed="true" x="1398" y="1004"><mutation name="ㅔ" functionid="n#VRpv0IGoZG]=/k{|rV"/><field name="function_name">ㅔ</field><statement name="STACK"><block type="device_show_leds" id="mLen%r{pj9]T0vlHo=0*"><field name="LEDS">`
+        . . # . # 
+        . . # . # 
+        . # # . # 
+        . . # . # 
+        . . # . #
+        `</field></block></statement></block><block type="function_definition" id="V,]T2iy,{O`LM+Q(8_Ff" collapsed="true" x="1267" y="1017"><mutation name="ㅒ" functionid="@j5ui@7}qdKU.C#o;E/E"/><field name="function_name">ㅒ</field><statement name="STACK"><block type="device_show_leds" id="#WrT#~9.EJL;/Ln%`3`c"><field name="LEDS">`
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # .
+        `</field></block></statement></block><block type="function_definition" id="^_Ae8[Q%DL|ba~QC7|Qx" collapsed="true" x="-260" y="1105"><mutation name="ㅅ" functionid="Nxv|Y^)?!6qPS{i!f`W^"/><field name="function_name">ㅅ</field><statement name="STACK"><block type="device_show_leds" id="cYiy1i=KpxB2vgYD+LBw"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        # . . . #
+        `</field></block></statement></block><block type="function_definition" id="4(=.wx`%uZV#urwVhd;d" collapsed="true" x="-94" y="1101"><mutation name="ㅋ" functionid="wDqIp8F`a-=_^mB?]?bN"/><field name="function_name">ㅋ</field><statement name="STACK"><block type="device_show_leds" id="MazBH(e1OEisQ=+-K9Oj"><field name="LEDS">`
+        # # # # # 
+        . . . . # 
+        # # # # # 
+        . . . . # 
+        . . . . #
+        `</field></block></statement></block><block type="function_definition" id="e%(bn=4(C.AOCVVx3294" collapsed="true" x="518" y="1112"><mutation name="ㅛ" functionid="e,?03*7o`@*(H(ApW)_R"/><field name="function_name">ㅛ</field><statement name="STACK"><block type="device_show_leds" id="4d**cc[Qo]ca=Z{3$HcG"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="function_definition" id="9+K2zpMO=.sy`NGkFh)9" collapsed="true" x="-712" y="1178"><mutation name="ㄷ" functionid="uupV5SABA}pD|^xu/gE_"/><field name="function_name">ㄷ</field><statement name="STACK"><block type="device_show_leds" id="i(!@q|%G0|3Dfw_s@/c~"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="T^.o*vh)v~%6xeefz/mr" collapsed="true" x="1496" y="1079"><mutation name="ㅖ" functionid="ZJe*92(qlVl!f6Ws6aW#"/><field name="function_name">ㅖ</field><statement name="STACK"><block type="device_show_leds" id=";Oa_[CkZ|XZh?QNuyR;/"><field name="LEDS">`
+        . . # . # 
+        . # # . # 
+        . . # . # 
+        . # # . # 
+        . . # . #
+        `</field></block></statement></block><block type="function_definition" id="|#l[}4W9s0B=F(A#F(I`" collapsed="true" x="-339" y="1248"><mutation name="ㅂ" functionid="D4a%H*N:nO;kWAfY}#mb"/><field name="function_name">ㅂ</field><statement name="STACK"><block type="device_show_leds" id="9!Fr#[(i@3+*[bs%1e=d"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="x3Kb93%|cy|I+L8QjJ`A" collapsed="true" x="-98" y="1249"><mutation name="ㅌ" functionid="o/@iU3iOXa6oaasT|+:2"/><field name="function_name">ㅌ</field><statement name="STACK"><block type="device_show_leds" id="1]:X(o;D@avqfe%`Cf-8"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # # 
+        # . . . . 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="@^!w[VNKP/T_EGr/]%B;" collapsed="true" x="1152" y="1202"><mutation name="ㅟ" functionid="/tLS+1(*$OGC*Ia!1b9k"/><field name="function_name">ㅟ</field><statement name="STACK"><block type="device_show_leds" id="~0Yr=M3$ys_v82No@:~)"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        # # # # # 
+        . . # . #
+        `</field></block></statement></block><block type="function_definition" id="T7M:;0zr=%[}1Il/@/%X" collapsed="true" x="486" y="1238"><mutation name="ㅜ" functionid="K%e8H!2i|}CWLYI}-V4)"/><field name="function_name">ㅜ</field><statement name="STACK"><block type="device_show_leds" id="kqgzza1jFaQz,:]/LJ(d"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        . . # . . 
+        . . . . .
+        `</field></block></statement></block><block type="function_definition" id=".m.rC.JKP^4Eepd[]g2~" collapsed="true" x="597" y="1234"><mutation name="ㅡ" functionid="?WTb!w!1=wua[gnLH^W,"/><field name="function_name">ㅡ</field><statement name="STACK"><block type="device_show_leds" id="!!Skca)`|=.46NZScgZj"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="function_definition" id="fR5HFFoL$,zFVBID.Koe" collapsed="true" x="-599" y="1300"><mutation name="ㄹ" functionid="N05-gxFoNQ3jpu0c-moZ"/><field name="function_name">ㄹ</field><statement name="STACK"><block type="device_show_leds" id="6eNDZe}Sg3X)E%?.:SU$"><field name="LEDS">`
+        # # # # # 
+        . . . . # 
+        # # # # # 
+        # . . . . 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="mw^h$$,6-iB6p3T5xpad" collapsed="true" x="1281" y="1206"><mutation name="ㅙ" functionid="i]~DuqVl+}]%1qxwPv08"/><field name="function_name">ㅙ</field><statement name="STACK"><block type="device_show_leds" id="W:BNHPUWGK:)k).H8eo]"><field name="LEDS">`
+        . . . # # 
+        . . . # # 
+        . # . # # 
+        . # . # # 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id=")/3=#vxw61FWL!=eJ)E-" collapsed="true" x="1398" y="1223"><mutation name="ㅚ" functionid=")qQlLONl{Rlv,T./o4D$"/><field name="function_name">ㅚ</field><statement name="STACK"><block type="device_show_leds" id="g32;e#,%s);Ml8c0uUJp"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
+        . . # . # 
+        . . # . # 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="7mxUd;Qi#:;3Y$GPK/Lc" collapsed="true" x="-466" y="1330"><mutation name="ㅁ" functionid="rRY.AR.TWEj^8][_m:O6"/><field name="function_name">ㅁ</field><statement name="STACK"><block type="device_show_leds" id="=zVpN!A_[bq$6=e8vqCT"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="lzA|voQP-GKbP`2OY?|s" collapsed="true" x="394" y="1327"><mutation name="ㅠ" functionid="@*19T}V$c5EYmKiECwgV"/><field name="function_name">ㅠ</field><statement name="STACK"><block type="device_show_leds" id="-04Z9QljHN~P,NWn7Pds"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        . # . # . 
+        . . . . .
+        `</field></block></statement></block><block type="function_definition" id="]jv%V0u|c|kJ97M1_@`f" collapsed="true" x="684" y="1316"><mutation name="ㅣ" functionid="12di5BR2,!V:fZ0bv*D:"/><field name="function_name">ㅣ</field><statement name="STACK"><block type="device_show_leds" id="yHh~jdx:J7*(Q#WN%8$@"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="k%3v]ZY(A(_;7N,7k@K+" collapsed="true" x="-100" y="1360"><mutation name="ㅍ" functionid="Jn;+MZ?G4-HCFNQSN]L="/><field name="function_name">ㅍ</field><statement name="STACK"><block type="device_show_leds" id="|^76-5Zqt8:3fWh-$RX1"><field name="LEDS">`
+        # # # # # 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="=*FjK`DL{k=;.4g[q$gm" collapsed="true" x="1133" y="1326"><mutation name="띄어쓰기" functionid="*WAI!TV=mDn|-_.h,^]4"/><field name="function_name">띄어쓰기</field><statement name="STACK"><block type="device_show_leds" id="5Np79**rFPl$zJmxPH;~"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="function_definition" id="A8kLX!`9_1}?VNswz|+$" collapsed="true" x="-95" y="1438"><mutation name="ㅎ" functionid="F+]lSouI}rEp_@7|x))i"/><field name="function_name">ㅎ</field><statement name="STACK"><block type="device_show_leds" id="v`o*t4qF)#p*Yp$D}yLW"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="1AcrXjlohtuHQ*2BEOEy" collapsed="true" x="1163" y="1431"><mutation name="." functionid="Erg|{NYUXIS*}.Zn31!="/><field name="function_name">.</field><statement name="STACK"><block type="device_show_leds" id="a[Eb|.m|0cKGfZ9)bEK]"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . .
+        `</field></block></statement></block><block type="function_definition" id="(_xJzvnvk-4U2SjCGz](" collapsed="true" x="1273" y="1442"><mutation name="," functionid="Vi)G};nYq[$p}tj^+GY]"/><field name="function_name">,</field><statement name="STACK"><block type="device_show_leds" id=";2UX~j_]k2:q5KQ%%N(M"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # # . .
+        `</field></block></statement></block><block type="function_definition" id="a0x*j|{a)rX.{_W8?oeY" collapsed="true" x="1406" y="1444"><mutation name="?" functionid="#@n6T!Sknn5=%8`XlDE)"/><field name="function_name">?</field><statement name="STACK"><block type="device_show_leds" id="}RyHaam]f.rdM3p$0)SS"><field name="LEDS">`
+        . # # # . 
+        . . . # . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="{7DukE!RRx|)U0~h9V%-" collapsed="true" x="1521" y="1449"><mutation name="!" functionid=")xj)UdI6|D(y$Nx+aq(!"/><field name="function_name">!</field><statement name="STACK"><block type="device_show_leds" id="-gefl]4NT:.GV{4Q2ra="><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field></block></statement></block></xml>
